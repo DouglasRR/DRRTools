@@ -9,7 +9,7 @@ with open("requirements.txt") as f:
 
 setup(
     name='DRRTools',
-    version='0.0.1',
+    version='0.0.2', # lançado no dia 23/09 a 0.0.1
     author="Douglas R. Ramos",
     author_email="douglaspro.business@gmail.com",
     description='My short description/Minha curta descrição',
