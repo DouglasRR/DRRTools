@@ -10,7 +10,7 @@ with open("requirements.txt") as f:
 setup(
     name='DRRTools',
     version='0.0.1',
-    authon="Douglas R. Ramos",
+    author="Douglas R. Ramos",
     author_email="douglaspro.business@gmail.com",
     description='My short description/Minha curta descrição',
     long_description=page_description,
