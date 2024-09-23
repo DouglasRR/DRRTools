@@ -15,7 +15,7 @@ setup(
     description='My short description/Minha curta descrição',
     long_description=page_description,
     long_description_content_type='text/markdown',
-    url='',
+    url='https://github.com/DouglasRR/DRRTools',
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=3.8',
